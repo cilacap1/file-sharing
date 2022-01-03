@@ -3,9 +3,7 @@
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
-##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -32,7 +30,6 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/cilacap1/File-Sharing
-cd File-Sharing-Man
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -87,11 +84,6 @@ python3 main.py
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-
-## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
-   
-Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
 ### Credits
 
