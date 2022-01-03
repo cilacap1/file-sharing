@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @Hilapd
+# Recode by @cilacp1
 
 
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
